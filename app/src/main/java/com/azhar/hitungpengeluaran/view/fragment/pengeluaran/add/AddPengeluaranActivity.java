@@ -15,7 +15,7 @@ import android.widget.Toast;
 
 import com.azhar.hitungpengeluaran.R;
 import com.azhar.hitungpengeluaran.model.ModelDatabase;
-import com.azhar.hitungpengeluaran.view.MainActivity;
+import com.azhar.hitungpengeluaran.MainActivity;
 import com.google.android.material.textfield.TextInputEditText;
 
 import java.text.SimpleDateFormat;
